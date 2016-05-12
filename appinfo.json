@@ -1,0 +1,47 @@
+{
+    "appKeys": {
+        "anim": 2,
+        "astro": 6,
+        "date": 5,
+        "infr": 7,
+        "inv": 1,
+        "stars": 3,
+        "vibr": 4
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "PanicMan/Jack T.",
+    "enableMultiJS": false,
+    "longName": "Planetarium",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/MenuImage.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU",
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "compatibility": "2.7",
+                "file": "fonts/TIMES.TTF",
+                "name": "FONT_25",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Planetarium",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2ca11bba-e360-430c-8218-2ee9956084fc",
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
